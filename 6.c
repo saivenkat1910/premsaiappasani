@@ -8,13 +8,13 @@ int main()
 	scanf("%d",&b);
 	for(i=1;i<=b;i++)
 	{
-		for(j=a-i+1;j>0;j--)
+		for(j=a-i;j>0;j--)
 		{
 			printf(" ");
 		}
 		for(k=1;k<=a;k++)
 		{
-			printf("*");
+			printf(" *");
 		}
 	printf("\n");
 	}
