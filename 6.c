@@ -14,7 +14,7 @@ int main()
 		}
 		for(k=1;k<=a;k++)
 		{
-			printf(" *");
+			printf("*");
 		}
 	printf("\n");
 	}
