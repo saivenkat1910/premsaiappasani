@@ -2,7 +2,7 @@
 int main()
 {
 	int a,b,i,j,k;
-	printf("Enter the length of horizontal side");
+	printf("hii .Enter the length of horizontal side");
 	scanf("%d",&a);
 	printf("Enter the length of vertical height");
 	scanf("%d",&b);
